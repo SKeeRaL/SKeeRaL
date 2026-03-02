@@ -10,7 +10,7 @@
 
 - 🎓 Étudiant à **Epitech Montpellier**
 - 📍 Basé à **Montpellier**
-- 🌐 Portfolio personnel : [portfolio-plum-two-40.vercel.app](https://portfolio-plum-two-40.vercel.app)
+- 🌐 Portfolio personnel : [portfolio-erwan-itier.vercel.app](https://portfolio-erwan-itier.vercel.app/)
 - 💼 Expérience en stage chez un administrateur web dans une entreprise de communication
 - 🌱 Toujours en train d'apprendre et d'explorer de nouvelles technologies
 - 💬 N'hésitez pas à me contacter !
@@ -78,7 +78,7 @@
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="https://portfolio-plum-two-40.vercel.app">
+  <a href="https://portfolio-erwan-itier.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/SKeeRaL">
