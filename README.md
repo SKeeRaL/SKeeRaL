@@ -1,7 +1,7 @@
 <h1 align="center">Salut, je suis Erwan Itier 👋</h1>
 
 <p align="center">
-  <em>Étudiant en informatique à <strong>Epitech Montpellier</strong> 🎓 &nbsp;|&nbsp; Passionné de développement logiciel & web 💻</em>
+  <em>Étudiant en informatique à <strong>Epitech Montpellier</strong> 🎓 &nbsp;|&nbsp; Passionné de développement logiciel &amp; web 💻</em>
 </p>
 
 ---
@@ -41,8 +41,13 @@
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
 | [🛳️ Bataille Navale](https://github.com/SKeeRaL/Navy) | Jeu de bataille navale 2 joueurs en local utilisant les signaux UNIX | C, CSFML |
-| 🎯 Duck Hunt Remaster | Recréation du jeu classique Duck Hunt avec des modifications | C, CSFML |
-| ✅ Epytodo | Application de todolist connectée à une base de données MariaDB | JavaScript, SQL |
+| ⚡ Nanotekspice | Simulateur de circuits électroniques en mode texte | C++ |
+| 🎨 Raytracer | Moteur de rendu 3D par lancer de rayons | C++ |
+| 🕹️ Arcade | Plateforme de jeux rétro avec système de librairies dynamiques | C++ |
+| 🌐 Zappy | Jeu multi-agents réseau avec GUI | C++, Python |
+| 🔗 Area | Plateforme d'automatisation type IFTTT (Action-Reaction) | JavaScript/TypeScript |
+| 🚀 R-Type | Jeu de shoot 'em up multijoueur en réseau | C++ |
+| 🤖 Robocar | Voiture autonome avec intelligence artificielle | C++, Python |
 | [🌐 Portfolio](https://github.com/SKeeRaL/Portfolio) | Mon portfolio personnel en ligne | React.js |
 
 ---
@@ -50,11 +55,15 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKeeRaL&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/SKeeRaL">
+    <img src="https://github-readme-stats.vercel.app/api?username=SKeeRaL&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKeeRaL&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
+  <a href="https://github.com/SKeeRaL">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKeeRaL&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
+  </a>
 </p>
 
 ---
