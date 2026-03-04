@@ -1,8 +1,7 @@
 <h1 align="center">Salut, je suis Erwan Itier 👋</h1>
 
 <p align="center">
-  <em>Étudiant en informatique à <strong>Epitech Montpellier</strong> 🎓 &nbsp;|&nbsp; Passionné de développement logiciel &amp; web 💻</em>
-</p>
+<em>Étudiant en informatique à <strong>Epitech Montpellier</strong> 🎓 &nbsp;|&nbsp; Systems &amp; Software Engineer · Full-Stack 💻</em></p>
 
 ---
 
